@@ -1,0 +1,40 @@
+body{
+    background-color: #f0f2f5;
+}
+.all{
+    display: flex;
+    align-items: center;
+}
+.left{
+    margin: 100px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right{
+max-width: 400px;
+display: flex;
+flex-direction: column;
+border: none;
+background-color: rgb(255, 255, 255);
+text-align: center;
+margin-left: 50px;
+margin-top: 100px;
+border: 1px solid white;
+outline: none;
+margin: 100px;
+padding: 20px;
+box-shadow: 0 0 5px black; 
+border-radius: 5px;   
+font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+}
+
+
